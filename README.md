@@ -1,6 +1,6 @@
 # SaintOfTheDay
 
-![AddSaintOne](Documentation/Resources/AddSaintOne.png)
+![AddSaintTwo](Documentation/Resources/AddSaintTwo.png)
 
 ![ListOfSaints](Documentation/Resources/ListOfSaints.png)
 
