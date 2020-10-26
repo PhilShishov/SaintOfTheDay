@@ -8,5 +8,5 @@ The application enters and views data for a specific saint or a list of saints a
 ### list_layout.xml  
 <img src="https://github.com/PhilShishov/SaintOfTheDay/blob/master/Documentation/Resources/ListOfSaints.png" width="360" height="640">
 
-### Final result
+### Final result with getBlob
 <img src="https://github.com/PhilShishov/SaintOfTheDay/blob/master/Documentation/Resources/SaintOfTheDay.png" width="360" height="640">
