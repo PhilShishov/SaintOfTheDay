@@ -4,8 +4,6 @@ The application enters and views data for a specific saint or a list of saints a
 
 <img src="https://github.com/PhilShishov/SaintOfTheDay/blob/master/Documentation/Resources/AddSaintTwo.png" width="360" height="640">
 
-![AddSaintTwo](Documentation/Resources/AddSaintTwo.png)
+<img src="https://github.com/PhilShishov/SaintOfTheDay/blob/master/Documentation/Resources/ListOfSaints.png" width="360" height="640">
 
-![ListOfSaints](Documentation/Resources/ListOfSaints.png)
-
-![SaintOfTheDay](Documentation/Resources/SaintOfTheDay.png)
+<img src="https://github.com/PhilShishov/SaintOfTheDay/blob/master/Documentation/Resources/SaintOfTheDay.png" width="360" height="640">
