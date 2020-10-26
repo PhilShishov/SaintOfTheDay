@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<TableLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="50dp"
+    android:paddingLeft="50dp"
+
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TableRow>
+        <TextView
+            android:text="Name of the Saint :"
+            />
+        <EditText
+            android:id="@+id/editName"
+            android:inputType="text"
+            android:minWidth="200dp"
+            />
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:text="Date of the Saint :"
+            />
+        <EditText
+            android:hint="DDMMYY:01012018"
+            android:id="@+id/editDate"
+            android:inputType="datetime"
+            android:minWidth="200dp"
+            />
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:text="Short Biography :"
+            />
+        <EditText
+            android:id="@+id/editBio"
+            android:inputType="text"
+            android:minWidth="200dp"
+            />
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:text="Image of the Saint :"
+            />
+       <Button
+           android:id="@+id/imageButton"
+           android:text="Upload"
+           android:textStyle="bold"/>
+    </TableRow>
+    <TableRow>
+
+        <Button android:layout_span="2"
+            android:id="@+id/btnAdd"
+            android:text="Add Saint"
+
+            />
+
+    </TableRow>
+    <TableRow>
+
+        <Button android:layout_span="2"
+            android:id="@+id/btnViewData"
+            android:text="VIEW LIST OF SAINTS"
+
+            />
+
+    </TableRow>
+
+    <TableRow>
+
+        <Button android:layout_span="2"
+            android:id="@+id/btnToday"
+            android:text="view Today's Saint"
+
+            />
+
+    </TableRow>
+
+    <TableRow>
+
+       <ImageView
+           android:layout_width="100dp"
+           android:layout_height="100dp"
+           android:id="@+id/TodayImage"
+           android:src="@mipmap/ic_launcher"/>
+        <TextView
+            android:layout_width="80dp"
+            android:lines="5"
+            android:text=""
+            android:singleLine="false"
+            android:id="@+id/TodayDetail"
+            />
+
+    </TableRow>
+
+
+</TableLayout>
+
