@@ -1,7 +1,5 @@
 # SaintOfTheDay
 
-## Description 
-
 The application enters and views data for a specific saint or a list of saints and generates a notification of today's saint.
 
 ![AddSaintTwo](Documentation/Resources/AddSaintTwo.png)
